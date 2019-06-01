@@ -212,4 +212,4 @@ plot(
 
 ![](PA1_template_files/figure-html/unnamed-chunk-13-2.png)<!-- -->
 
-
+There are noticeably differences in the number of steps. During the weekends people walk more after 10am. During the other days, they walk more before 9am. In both cases the biggest peaks are between 8 and 10 am.
